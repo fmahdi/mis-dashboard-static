@@ -7,28 +7,3 @@ nav>ul{
     justify-content:space-evenly;
 }
 
-.eb-garamond-body {
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-.eb-garamond-heading {
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-}
-.eb-garamond-subtitle {
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.eb-garamond-title {
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-}
