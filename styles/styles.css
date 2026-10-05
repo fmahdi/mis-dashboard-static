@@ -7,3 +7,12 @@ nav>ul{
     justify-content:space-evenly;
 }
 
+.dash-container{
+    border: 2px solid red;
+    margin: 20px auto;
+}
+table{
+    border: 1px solid black;
+    width:50%;
+    margin: 15px auto;
+}
