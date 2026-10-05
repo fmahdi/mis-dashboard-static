@@ -11,6 +11,10 @@
     /* border: 2px solid red; */
     margin: 20px auto;
 }
+.chart-container{
+    width: 60%;
+    margin: 20px auto;
+}
 table{
     border: 1px solid black;
     width:60%;
